@@ -2,6 +2,7 @@
  * Motion detected Photo taker
 ********/
 
+
 #include <string.h>
 #include <stdlib.h>
 #include "freertos/FreeRTOS.h"
